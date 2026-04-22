@@ -1,4 +1,4 @@
-## Hi there 👋
+Ciao, sono Piergiorgio De Iuliis e ti do il benvenuto sulla mia pagina di Github. Sono un ingegnere Gestionale con una solida preparazione accademica focalizzata sull'ottimizzazione dei processi e l'analisi quantitativa. Possiedo solide basi di statistica e analisi dei dati, competenze che sto integrando con lo studio autonomo di SQL e Microsoft Power BI. Spinto da una naturale curiosità multidisciplinare, cerco costantemente sfide che mi portino fuori dalla comfort zone, vedendo negli ostacoli un'opportunità di crescita e ottimizzazione continua.
 
 <!--
 **piergiorgiodeiuliis/piergiorgiodeiuliis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
